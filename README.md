@@ -10,8 +10,8 @@
 [![Twitter](https://badgen.net/twitter/follow/mercury_dev0517)](https://twitter.com/mercury_dev0517)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercury0517&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mercury0517" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercury0517&layout=compact&show_icons=true"/>
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mercury0517"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mercury0517)](https://github.com/mercury0517/github-profile-trophy)
