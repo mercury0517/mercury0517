@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: "https://lapras.com/public/YKJMRIR"
+          SHARE_ID: https://lapras.com/public/YKJMRIR
           ICON_FIRST: "#03102f"
           ICON_SECOND: "#1688bf"
           BACKGROUND_FIRST: "#020e27"
