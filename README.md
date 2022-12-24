@@ -16,5 +16,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mercury0517)](https://github.com/mercury0517/github-profile-trophy)
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ### :bell: Contact me
 **[Twitter - @mercury_dev0517](https://twitter.com/mercury_dev0517)**
