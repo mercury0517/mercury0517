@@ -18,7 +18,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/mercury0517" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.27&b=2.85&i=3.41&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
-Last Updated on 12/29/2022, 1:39:25 AM
+Last Updated on 12/30/2022, 1:39:40 AM
 <!--END_SECTION:lapras-card-->
 
 ### :bell: Contact me
