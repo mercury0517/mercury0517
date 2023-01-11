@@ -17,8 +17,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mercury0517)](https://github.com/mercury0517/github-profile-trophy)
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/mercury0517" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.37&b=2.85&i=3.42&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
-Last Updated on 1/10/2023, 1:45:23 AM
+<a href="https://lapras.com/public/mercury0517" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=2.63&b=2.85&i=3.4&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
+Last Updated on 1/11/2023, 1:42:51 AM
 <!--END_SECTION:lapras-card-->
 
 ### :bell: Contact me
