@@ -7,7 +7,7 @@
 
 [![Contributions](https://badgen.org/img/qiita/Tita_boc16/contributions?style=for-the-badge)](https://qiita.com/Tita_boc16)
 [![Likes](https://badgen.org/img/zenn/mercury6444/likes?style=for-the-badge)](https://zenn.dev/mercury6444)
-[![Twitter](https://badgen.net/twitter/follow/mercury_dev0517)](https://twitter.com/mercury_dev0517)
+![Twitter Follow](https://img.shields.io/twitter/follow/mercury_dev0517)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercury0517&layout=compact&show_icons=true"/>
