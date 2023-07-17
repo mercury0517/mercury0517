@@ -1,7 +1,7 @@
 # Akihiro Ihara
 ### :cherry_blossom: My Skill
 
-[![My Skills](https://skillicons.dev/icons?i=swift,js,html,css,reactivex,react,php,nodejs,java,github,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,js,html,css,reactivex,react,php,nodejs,java,github,firebase,ruby)](https://skillicons.dev)
 
 ### :rocket: Outputs
 
