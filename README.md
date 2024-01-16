@@ -18,7 +18,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/mercury0517" target="_blank" rel="noopener noreferrer"><img alt="mercury0517のLAPRASでのスコアは次の通りです: エンジニアリング: 3.65 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.61 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.65&b=3.36&i=3.61&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
-Last Updated on 1/15/2024, 1:23:34 AM</p>
+Last Updated on 1/16/2024, 1:21:17 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ### :bell: Contact me
