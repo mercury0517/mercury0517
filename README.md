@@ -17,8 +17,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mercury0517)](https://github.com/mercury0517/github-profile-trophy)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/mercury0517" target="_blank" rel="noopener noreferrer"><img alt="mercury0517のLAPRASでのスコアは次の通りです: エンジニアリング: 3.76 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.72 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.76&b=3.36&i=3.72&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
-Last Updated on 1/16/2026, 2:20:59 AM</p>
+<p ><a href="https://lapras.com/public/mercury0517" target="_blank" rel="noopener noreferrer"><img alt="mercury0517のLAPRASでのスコアは次の通りです: エンジニアリング: 3.76 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.73 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.76&b=3.36&i=3.73&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
+Last Updated on 1/17/2026, 2:08:25 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ### :bell: Contact me
